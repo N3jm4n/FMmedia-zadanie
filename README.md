@@ -32,13 +32,16 @@ Obejmuje kompletny flow:
 ### Kroki
 
 ```bash
-# 1. Przejdź do folderu projektu
-cd "solution(put your solution here)"
+# 1. Sklonuj repozytorium
+git clone https://github.com/N3jm4n/FMmedia-zadanie.git
 
-# 2. Zainstaluj zależności
+# 2. Przejdź do folderu projektu
+cd FMmedia-zadanie
+
+# 3. Zainstaluj zależności
 npm install
 
-# 3. Uruchom serwer deweloperski
+# 4. Uruchom serwer deweloperski
 npm run dev
 ```
 
